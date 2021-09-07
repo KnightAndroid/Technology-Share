@@ -403,7 +403,7 @@ https://github.com/ZXZxin/ZXBlog
 * [https://github.com/yangkun19921001/Blog](https://github.com/yangkun19921001/Blog)
 * [却把青梅嗅的反思系列](https://github.com/qingmei2/blogs)
 
-#### 10.个系列文章 Android Performance
+#### 10.系列文章 Android Performance
 * [Android Systrace 基础知识(1) -- Systrace 简介](https://juejin.cn/post/6844904163407560712)
 * [Android Systrace 基础知识(2) -- 分析 Systrace 预备知识](https://juejin.cn/post/6844904165336940551)
 * [Android Systrace 基础知识(3) -- Why 60 fps ？](https://juejin.cn/post/6844904165689262087)
@@ -419,6 +419,9 @@ https://github.com/ZXZxin/ZXBlog
 * [Systrace 流畅性实战 1 ：了解卡顿原理](https://juejin.cn/post/6963656387733749773)
 * [Systrace 流畅性实战 2 ：案例分析 - MIUI 桌面滑动卡顿分析](https://juejin.cn/post/6963656535067066405)
 * [Systrace 流畅性实战 3 ：卡顿分析过程中的一些疑问](https://juejin.cn/post/6963654615824875533)
+
+#### 11.LeetCode 刷题攻略
+* [https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
 
 ## License
