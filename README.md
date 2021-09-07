@@ -124,6 +124,8 @@ https://github.com/CarGuo/GSYGithubAppFlutter
 #### 好用的Android Studio插件集合
 * [https://github.com/getActivity/StudioPlugins](https://github.com/getActivity/StudioPlugins)
 
+#### Android Signature V2 Scheme签名下的新一代渠道包打包神器
+* [https://github.com/Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle)
 
 ### 大厂分享
 #### 1.腾讯
@@ -312,6 +314,13 @@ https://www.jianshu.com/p/654961493846
 * [https://cs.android.com/](https://cs.android.com/)
 * [https://www.androidos.net.cn/sourcecode](https://www.androidos.net.cn/sourcecode)
 * [http://aospxref.com/](http://aospxref.com/)
+
+### Gradle相关
+* [Gradle插件-基础篇](https://linxiaotao.github.io/2018/05/16/Gradle%E6%8F%92%E4%BB%B6-%E5%9F%BA%E7%A1%80%E7%AF%87/)
+* [Gradle插件-提高篇](https://linxiaotao.github.io/2018/05/21/Gradle%E6%8F%92%E4%BB%B6-%E6%8F%90%E9%AB%98%E7%AF%87/)
+* [带你实现自定义Gradle插件](https://juejin.cn/post/6844903978233233415)
+* [从Gradle生命周期到自定义Task挂接到Build构建流程全解](https://zhuanlan.zhihu.com/p/387871046)
+* [Android中Gradle原理以及机制深入分析](http://www.youkmi.cn/2020/01/01/android-zhong-gradle-yuan-li-yi-ji-ji-zhi-shen-ru-fen-xi/)
 
 
 ### 课程
