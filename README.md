@@ -402,6 +402,9 @@ https://github.com/bytedance/ByteX
 * Android 复习资料汇总版 https://juejin.cn/post/6844903907047505934#heading-6
 * 常见面试算法 https://juejin.cn/post/6844903889003642887#comment
 * Awesome-Android-Interview https://github.com/JsonChao/Awesome-Android-Interview
+* Android技术笔记 https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode
+* 涵盖Android知识点面试题算法等 https://github.com/hornhuang/android_interviews
+* 程序员徐公笔记 https://github.com/gdutxiaoxu/AndroidGuide
 
 ### 性能优化
 * 性能工具的使用、Android App 优化知识、Android Framework 知识讲解，性能理论知识讲解 https://www.androidperformance.com/2019/12/01/BlogMap/
@@ -480,6 +483,9 @@ https://github.com/ZXZxin/ZXBlog
 
 #### 12.Android ANR问题总结
 * [https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg](https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg)
+
+#### 13.最全的Android技术栈
+* [https://github.com/chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll)
 
 ## License
 
