@@ -38,6 +38,7 @@
 * [Gradle相关](#Gradle相关)
 * [课程](#课程)
 * [面试相关](#面试相关)
+* [性能优化](#性能优化)
 * [知识整理](#知识整理)
 
 ### Github开源库
@@ -402,6 +403,13 @@ https://github.com/bytedance/ByteX
 * 常见面试算法 https://juejin.cn/post/6844903889003642887#comment
 * Awesome-Android-Interview https://github.com/JsonChao/Awesome-Android-Interview
 
+### 性能优化
+* 性能工具的使用、Android App 优化知识、Android Framework 知识讲解，性能理论知识讲解 https://www.androidperformance.com/2019/12/01/BlogMap/
+* Android 面试之必问性能优化 https://juejin.cn/post/6970613873040687141
+* 深入探索 Android 包体积优化（匠心制作-上） https://juejin.cn/post/6844904103131234311#heading-56
+* 深入探索 Android 包体积优化（匠心制作-下） https://juejin.cn/post/6872920643797680136
+
+
 ### 知识整理
 #### 1. 一份涵盖大部分Java程序员所需要掌握的核心知识
 https://github.com/Snailclimb/JavaGuide
@@ -470,6 +478,8 @@ https://github.com/ZXZxin/ZXBlog
 #### 11.LeetCode 刷题攻略
 * [https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 
+#### 12.Android ANR问题总结
+* [https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg](https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg)
 
 ## License
 
