@@ -396,13 +396,11 @@ https://github.com/bytedance/ByteX
 
 
 ### 面试相关
-#### 1.每天一道Android 面试题
-
-https://github.com/Moosphan/Android-Daily-Interview
-
-#### 2.一个Android 面试题合集
-https://github.com/MindorksOpenSource/android-interview-questions
-
+* 每天一道Android 面试题 https://github.com/Moosphan/Android-Daily-Interview
+* 一个Android 面试题合集 https://github.com/MindorksOpenSource/android-interview-questions
+* Android 复习资料汇总版 https://juejin.cn/post/6844903907047505934#heading-6
+* 常见面试算法 https://juejin.cn/post/6844903889003642887#comment
+* Awesome-Android-Interview https://github.com/JsonChao/Awesome-Android-Interview
 
 ### 知识整理
 #### 1. 一份涵盖大部分Java程序员所需要掌握的核心知识
