@@ -315,7 +315,7 @@
 * Mock你的数据，放个大招 [https://www.jianshu.com/p/654961493846](https://www.jianshu.com/p/654961493846)
 * Android 代码搜索一 [https://cs.android.com/](https://cs.android.com/)
 * Android 代码搜索二 [https://www.androidos.net.cn/sourcecode](https://www.androidos.net.cn/sourcecode)
-* Android 代码搜索三 [http://aospxref.com/](http://aospxref.com/](http://aospxref.com/](http://aospxref.com/)
+* Android 代码搜索三 [http://aospxref.com/](http://aospxref.com/)
 
 ### Gradle相关
 * [Gradle插件-基础篇](https://linxiaotao.github.io/2018/05/16/Gradle%E6%8F%92%E4%BB%B6-%E5%9F%BA%E7%A1%80%E7%AF%87/)
