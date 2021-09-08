@@ -1,4 +1,4 @@
-本`github`收录一些大厂以及一些热门项目
+本`github`收录一些大厂技术分享、实用一直维护的开源库、面试题
 
 ## 目录
 
@@ -42,131 +42,102 @@
 * [知识整理](#知识整理)
 
 ### Github开源库
-#### 开源一个自用的Android IM库
-https://www.jianshu.com/p/00ba0ac2fc96
+* 开源一个自用的Android IM库 https://www.jianshu.com/p/00ba0ac2fc96
 
-这是一篇非常棒的文章，作者从事直播、即时通讯、短视频等项目3，4年，有这样经历的作者来开源一个IM库是可遇不可求的。
+    这是一篇非常棒的文章，作者从事直播、即时通讯、短视频等项目3，4年，有这样经历的作者来开源一个IM库是可遇不可求的。
 
-项目地址：
+    项目地址： https://github.com/FreddyChen/NettyChat
 
-https://github.com/FreddyChen/NettyChat
+    文章包含：
 
-文章包含：
+    * Protobuf序列化
 
-* Protobuf序列化
+    * TCP拆包与粘包
 
-* TCP拆包与粘包
+    * 长连接握手认证
 
-* 长连接握手认证
+    * 心跳机制
 
-* 心跳机制
+    * 重连机制
 
-* 重连机制
+    * 消息重发机制
 
-* 消息重发机制
+    * 读写超时机制
 
-* 读写超时机制
+    * 离线消息
 
-* 离线消息
+    * 线程池
 
-* 线程池
+* Leetcode算法图解 [https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
 
-#### Leetcode算法图解
-[https://github.com/MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)
+* 卓高级UI代码整理和博客代码Demo [https://github.com/zincPower/UI2018](https://github.com/zincPower/UI2018)
 
-#### 卓高级UI代码整理和博客代码Demo
-https://github.com/zincPower/UI2018
-#### 在编译生成APK期间，将需要翻译的layout翻译生成对应的java文件
-https://github.com/iReaderAndroid/X2C
-#### Flutter系列教程
-https://github.com/CarGuo/GSYGithubAppFlutter
-* [Dart 语言和 Flutter 基础](https://juejin.im/entry/5b631e3e51882519861c2ef1)
-* [快速开发实战篇](https://juejin.im/entry/5b685bd4e51d451994602cae)
-* [打包填坑篇](https://juejin.im/entry/5b6fd5ee6fb9a009d36a4104)
-* [Redux、主题、国际化](https://juejin.im/post/5b79767ff265da435450a873 )
-* [深入探索](https://juejin.im/post/5bc450dff265da0a951f032b )
-* [深入Widget原理](https://juejin.im/post/5c7e853151882549664b0543 )
-* [深入布局原理](https://juejin.im/post/5c8c6ef7e51d450ba7233f51)
-* [实用技巧与填坑](https://juejin.im/post/5c9e328251882567b91e1cfb)
-* [深入绘制原理](https://juejin.im/post/5ca0e0aff265da309728659a)
-* [深入图片加载流程](https://juejin.im/post/5cb1896ce51d456e63760449)
-* [全面深入理解Stream](https://juejin.im/post/5cc2acf86fb9a0321f042041)
-* [全面深入理解状态管理设计](https://juejin.im/post/5cc816866fb9a03231209c7c)
-* [全面深入触摸和滑动原理](https://juejin.im/post/5cd54839f265da03b2044c32)
+* 在编译生成APK期间，将需要翻译的layout翻译生成对应的java文件 [https://github.com/iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C)
 
-#### 整合第三方登录的工具
-* [https://github.com/zhangyd-c/JustAuth](https://github.com/zhangyd-c/JustAuth)
-#### 用于给 view 添加阴影
-* [https://github.com/SilenceDut/fpsviewer](https://github.com/SilenceDut/fpsviewer)
-#### Android 开源项目解析
-* [https://github.com/sucese/android-open-framework-analysis](https://github.com/sucese/android-open-framework-analysis)
-#### Android学习路线图
-* [https://github.com/mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
-#### Android架构合集
-* [https://github.com/CameloeAnthony/AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
-* [https://github.com/Juude/Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
+* Flutter系列教程 [https://github.com/CarGuo/GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)
 
-#### 获取手机的全部硬件信息
-* [https://github.com/guxiaonian/MobileInfo](https://github.com/guxiaonian/MobileInfo)
-#### 表情包大全
-* [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
+    * [Dart 语言和 Flutter 基础](https://juejin.im/entry/5b631e3e51882519861c2ef1)
+    * [快速开发实战篇](https://juejin.im/entry/5b685bd4e51d451994602cae)
+    * [打包填坑篇](https://juejin.im/entry/5b6fd5ee6fb9a009d36a4104)
+    * [Redux、主题、国际化](https://juejin.im/post/5b79767ff265da435450a873 )
+    * [深入探索](https://juejin.im/post/5bc450dff265da0a951f032b )
+    * [深入Widget原理](https://juejin.im/post/5c7e853151882549664b0543 )
+    * [深入布局原理](https://juejin.im/post/5c8c6ef7e51d450ba7233f51)
+    * [实用技巧与填坑](https://juejin.im/post/5c9e328251882567b91e1cfb)
+    * [深入绘制原理](https://juejin.im/post/5ca0e0aff265da309728659a)
+    * [深入图片加载流程](https://juejin.im/post/5cb1896ce51d456e63760449)
+    * [全面深入理解Stream](https://juejin.im/post/5cc2acf86fb9a0321f042041)
+    * [全面深入理解状态管理设计](https://juejin.im/post/5cc816866fb9a03231209c7c)
+    * [全面深入触摸和滑动原理](https://juejin.im/post/5cd54839f265da03b2044c32)
 
-#### 字节跳动开源一系列插件
-* [https://github.com/bytedance/ByteX](https://github.com/bytedance/ByteX)
--   access-inline-plugin（access方法内联）
--   shrink-r-plugin（R文件瘦身和无用资源检查）
--   closeable-check-plugin（文件流的close检查）
--   const-inline-plugin（常量内联）
--   field-assign-opt-plugin（优化多余赋值指令）
--   getter-setter-inline-plugin （getter和setter方法内联）
--   method-call-opt-plugin（干净地删除某些方法调用，如Log.d）
--   coverage-plugin（线上代码覆盖率）
--   refer-check-plugin（检查是否有调用不存在的方法和引用不存在的字段）
--   serialization-check-plugin（序列化检查）
--   SourceFileKiller（删除SourceFile和行号属性）
+* 整合第三方登录的工具 [https://github.com/zhangyd-c/JustAuth](https://github.com/zhangyd-c/JustAuth)
 
-#### 百度对外开源文章详情页 webview+recyclerview+一些原生控件联动效果
-* [https://github.com/baiduapp-tec/ELinkageScroll](https://github.com/baiduapp-tec/ELinkageScroll)
+* 用于给 view 添加阴影 [https://github.com/SilenceDut/fpsviewer](https://github.com/SilenceDut/fpsviewer)
 
-#### 一些Android 逆向攻防相关的话题
+* Android 开源项目解析 [https://github.com/sucese/android-open-framework-analysis](https://github.com/sucese/android-open-framework-analysis)
 
-* https://github.com/Hack-with-Github/Awesome-Hacking
-* https://github.com/carpedm20/awesome-hacking
+* Android学习路线图 [https://github.com/mobile-roadmap/android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap)
 
-#### 一个hook库
-* [https://github.com/eleme/lancet](https://github.com/eleme/lancet)
+* Android架构合集(一) https://github.com/CameloeAnthony/AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
 
-#### 一个算法仓库
-* [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+* Android架构合集(二) [https://github.com/Juude/Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture)
 
-#### 爱奇艺开源德xCrash
-* [https://github.com/iqiyi/xCrash](https://github.com/iqiyi/xCrash)
+* 获取手机的全部硬件信息 [https://github.com/guxiaonian/MobileInfo](https://github.com/guxiaonian/MobileInfo)
 
-#### 研发效率工具
-* [爱奇艺开源](https://github.com/iqiyi/Lens)
-* [饿了么](https://github.com/eleme/UETool)
+* 表情包大全 [https://github.com/zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)
 
-#### 依赖库查看版本
-* [https://github.com/wuyr/GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
+* 字节跳动开源一系列插件 [https://github.com/bytedance/ByteX](https://github.com/bytedance/ByteX)
+    -   access-inline-plugin（access方法内联）
+    -   shrink-r-plugin（R文件瘦身和无用资源检查）
+    -   closeable-check-plugin（文件流的close检查）
+    -   const-inline-plugin（常量内联）
+    -   field-assign-opt-plugin（优化多余赋值指令）
+    -   getter-setter-inline-plugin （getter和setter方法内联）
+    -   method-call-opt-plugin（干净地删除某些方法调用，如Log.d）
+    -   coverage-plugin（线上代码覆盖率）
+    -   refer-check-plugin（检查是否有调用不存在的方法和引用不存在的字段）
+    -   serialization-check-plugin（序列化检查）
+    -   SourceFileKiller（删除SourceFile和行号属性）
 
-#### 一些路由框架
-* [https://github.com/bilibili/BRouter](https://github.com/bilibili/BRouter)
-* [https://github.com/alibaba/ARouter](https://github.com/alibaba/ARouter)
-* [https://github.com/meituan/WMRouter](https://github.com/meituan/WMRouter)
-
-####  字节跳动 Tailor
-* [开源内存快照裁剪压缩压缩工具](https://github.com/bytedance/tailor)
-* [字节跳动开源 Android PLT hook 方案 bhook](https://github.com/bytedance/bhook)
-* [字节跳动开源移动研发工具链 MBox](https://github.com/mboxplus/mbox)
-#### 滴滴开源
-* [移动端操作行为的工具](https://github.com/didi/DiDiPrism)
-* [Dokit For Flutter](https://github.com/didi/DoraemonKit/tree/master/Flutter)
-
-#### 好用的Android Studio插件集合
-* [https://github.com/getActivity/StudioPlugins](https://github.com/getActivity/StudioPlugins)
-
-#### Android Signature V2 Scheme签名下的新一代渠道包打包神器
-* [https://github.com/Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle)
+* 百度对外开源文章详情页 webview+recyclerview+一些原生控件联动效果 [https://github.com/baiduapp-tec/ELinkageScroll](https://github.com/baiduapp-tec/ELinkageScroll)
+* Android 逆向攻防相关的话题(一) https://github.com/Hack-with-Github/Awesome-Hacking
+* Android 逆向攻防相关的话题(二) https://github.com/carpedm20/awesome-hacking 
+* 一个hook库 [https://github.com/eleme/lancet](https://github.com/eleme/lancet)
+* 一个算法仓库 [https://github.com/labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+* 爱奇艺开源德xCrash [https://github.com/iqiyi/xCrash](https://github.com/iqiyi/xCrash)
+* 研发效率工具 奇艺开源 [https://github.com/iqiyi/Lens](https://github.com/iqiyi/Lens)
+* 研发效率工具 饿了么开源 [https://github.com/eleme/UETool](https://github.com/eleme/UETool)
+* 依赖库查看版本 [https://github.com/wuyr/GoogleLibraryVersionQuerier](https://github.com/wuyr/GoogleLibraryVersionQuerier)
+* 阿里路由框架 [https://github.com/alibaba/ARouter](https://github.com/alibaba/ARouter)
+* Bilibi路由框架 [https://github.com/bilibili/BRouter](https://github.com/bilibili/BRouter)
+* 美团路由框架 [https://github.com/meituan/WMRouter](https://github.com/meituan/WMRouter)
+* 开源内存快照裁剪压缩压缩工具  [https://github.com/bytedance/tailor](https://github.com/bytedance/tailor)
+* 字节跳动开源 Android PLT hook 方案 bhook [https://github.com/bytedance/bhook](https://github.com/bytedance/bhook)
+* 字节跳动开源移动研发工具链 MBox [https://github.com/mboxplus/mbox](https://github.com/mboxplus/mbox)
+* 移动端操作行为的工具 [https://github.com/didi/DiDiPrism](https://github.com/didi/DiDiPrism)
+* Dokit For Flutter [https://github.com/didi/DoraemonKit/tree/master/Flutter](https://github.com/didi/DoraemonKit/tree/master/Flutter)
+* 好用的Android Studio插件集合 [https://github.com/getActivity/StudioPlugins](https://github.com/getActivity/StudioPlugins)
+* Android Signature V2 Scheme签名下的新一代渠道包打包神器 [https://github.com/Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle)
 
 ### 大厂分享
 #### 1.腾讯
