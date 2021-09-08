@@ -368,7 +368,7 @@ https://github.com/bytedance/ByteX
 * 程序员徐公笔记 https://github.com/gdutxiaoxu/AndroidGuide
 
 ### 性能优化
-* 性能工具的使用、Android App 优化知识、Android Framework 知识讲解，性能理论知识讲解 https://www.androidperformance.com/2019/12/01/BlogMap/
+* 一个非常全面的关于性能工具的使用、Android App 优化知识、Android Framework 知识讲解，性能理论知识讲解博客网站 https://www.androidperformance.com
 * Android 面试之必问性能优化 https://juejin.cn/post/6970613873040687141
 * 深入探索 Android 包体积优化（匠心制作-上） https://juejin.cn/post/6844904103131234311#heading-56
 * 深入探索 Android 包体积优化（匠心制作-下） https://juejin.cn/post/6872920643797680136
