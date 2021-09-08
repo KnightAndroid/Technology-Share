@@ -140,7 +140,7 @@
 * Android Signature V2 Scheme签名下的新一代渠道包打包神器 [https://github.com/Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle)
 
 ### 大厂分享
-#### 1.腾讯
+#### 腾讯
 * [腾讯 matrix ](https://github.com/Tencent/matrix) Matrix 是一款微信团队研发并日常使用的应用性能接入框架。 Matrix 通过接入各种性能监控方案，对性能监控项的异常数据进行采集和分析，输出相应的问题分析、定位与优化建议，从而帮助开发者开发出更高质量的应用
 * [腾讯 QMUI ](https://github.com/Tencent/QMUI_Android)
 * [对字符串匹配算法的一点理解](https://mp.weixin.qq.com/s/aC7XEsz3eGSWj3oWHpQE7w)
@@ -164,7 +164,7 @@
 * [MOO音乐的Flutter实战总结之内存治理（上）](https://mp.weixin.qq.com/s/v4Cdheo-ZBHGuAQd12XEMA)
 * [MOO音乐的Flutter实战总结之内存治理（中）](https://mp.weixin.qq.com/s/njtOELCVZQpo9e29H9ykjA)
 * [MOO音乐的Flutter实战总结之内存治理（下）](https://mp.weixin.qq.com/s/qxHip7Y50yPcqui6dudK2g)
-#### 2.字节跳动
+#### 字节跳动
 * [二维码扫描优化](https://mp.weixin.qq.com/s/MT55JhiYcYiSy5pDQaHXwg)
 * [连载 | 深入理解Gradle框架之一：Plugin, Extension, buildSrc](https://mp.weixin.qq.com/s/mDCTtQZb6mhWOFAvLYKBSg)
 * [连载 | 深入理解gradle框架之二：依赖实现分析](https://mp.weixin.qq.com/s/WQCqUaYDPHDIjUHlxjRIkw)
@@ -190,25 +190,25 @@
 * [西瓜卡顿 & ANR 优化治理及监控体系建设](https://mp.weixin.qq.com/s/2sjG5qkrUNQsI0jEsnh4kQ)
 * [抖音Android无障碍开发知识总结](https://mp.weixin.qq.com/s/2JBMfaV4oa0XLrJ-55sPdg)
 * [一文读懂字节跳动自研移动研发工具链 MBox](https://mp.weixin.qq.com/s/5_IlQPWnCug_f3SDrnImCw)
-#### 3.支付宝
+#### 支付宝
 * [支付宝客户端架构解析：Android 客户端启动速度优化之「垃圾回收」](https://mp.weixin.qq.com/s/ePjxcyF3N1vLYvD5dPIjUw)
 * [支付宝 App 构建优化解析：通过安装包重排布优化 Android 端启动性能](https://mp.weixin.qq.com/s/79tAFx6zi3JRG-ewoapIVQ)
 * [支付宝 App 构建优化解析：Android 包大小极致压缩](https://mp.weixin.qq.com/s/_gnT2kjqpfMFs0kqAg4Qig)
 * [解决支付宝包体积优化的遗留问题：运行时获取dexpc](https://mp.weixin.qq.com/s/BbfwyhNiPK_tPCs2lN5iQg)
-#### 4.百度
+#### 百度
 * [Android H5首屏优化实践](https://mp.weixin.qq.com/s/AqQgDB-0dUp2ScLkqxbLZg)
 * [百度App组件化之路](https://mp.weixin.qq.com/s/P-vREnrw4xGyhiugpzB-1Q)
 * [百度App网络深度优化系列《三》弱网优化](https://mp.weixin.qq.com/s/BIfya6eVaWZW9ZEVz8RRcg)
 * [一种简单优雅的TextView行间距适配方案](https://mp.weixin.qq.com/s/xQ5I0omWC8-6W4RAYl0hkA)
 * [Gradle 与 Android 构建入门](https://mp.weixin.qq.com/s/HdCrhiY3VSsEjmu0FKLlyg)
-#### 5.搜狐
+#### 搜狐
 * [深入理解Flutter多线程](https://mp.weixin.qq.com/s/0dhV1FG0W7L45sCN49yLnQ)
-#### 6.携程
+#### 携程
 * [干货 | 从智行 Android 项目看组件化架构实践](https://mp.weixin.qq.com/s/_v2NMSQmZA9HLVq03AzbWQ)
-#### 7.滴滴
+#### 滴滴
 * [滴滴开源 DoraemonKit：一款像哆啦A梦般全能的App研发工具](https://github.com/didi/DoraemonKit )
 * [滴滴 booster](https://github.com/didi/booster) Booster 是专门为移动应用而设计的简单易用、轻量级、功能强大且可扩展的质量优化工具包，其通过动态发现和加载机制提供可扩展的能力，换言之，Booster 也是一个移动应用质量优化框架。
-#### 8.网易
+#### 网易
 * [网易严选技术专家解读ABTest 设计与原理](https://www.jianshu.com/p/4e7a271cd54a)
 * [AOP技术在客户端的应用与实践](https://mp.weixin.qq.com/s/WRrpC30g4r_AyJa6BPNf8Q)
 * [网易大数据|互联网产品决策秘笈: AB测试](https://mp.weixin.qq.com/s/NnPoAZirm8ZCF2B2Hw2kZA)
@@ -217,83 +217,83 @@
 * [网易新闻构建优化：如何让你的构建速度“势如闪电”？](https://mp.weixin.qq.com/s/2Y8-NqVPdOqtLGZDMrhGyQ)
 * [Android 开发，如何写出符合规范的异常处理代码](https://mp.weixin.qq.com/s/SOTCVjJ4-V2cNT8lqWFUDA)
 * [AGP 升级之旅](https://mp.weixin.qq.com/s/ccdY77Ys44Hw5E20QbAxdg)
-#### 9.美团
+#### 美团
 * [漫谈美团APP对Crash的治理之路](https://www.jianshu.com/p/923a24755456)
 * [Android静态代码扫描效率优化与实践](https://mp.weixin.qq.com/s/cY6rUrrjYRaIV--UzjiUgA)
 * [Probe：Android线上OOM问题定位组件](https://mp.weixin.qq.com/s/tO1yxFs2qNQlQ2bJ8vGzQA)
 * [移动端UI一致性解决方案](https://mp.weixin.qq.com/s/oq7ylltdRIdJuSlL7EIiNA)
 * [设计稿（UI视图）自动生成代码方案的探索](https://mp.weixin.qq.com/s/rwl6rX_cGTtVYkVDy94bQQ)
-#### 10.有赞微商城
+#### 有赞微商城
 * [有赞微商城-Android组件化方案](https://tech.youzan.com/you-zan-yi-dong-androidzu-jian-hua-fang-an/)
-#### 11.京东
+#### 京东
 * [任意URL跳转漏洞修复与JDK中getHost()方法之间的坑](https://mp.weixin.qq.com/s/Lj7FDZj_ke5djzgJNwipbQ)
 * [LayoutInflater原理分析与复杂布局优化实践](https://mp.weixin.qq.com/s/1Zk4on7WTF7nrBm2EsYgLg)
 * [JAVA原生线程池源码解析及使用建议](https://mp.weixin.qq.com/s/t5BXaLF5bYVuza_9xTNTtA)
 * [京东APP中Flutter探索及优化](https://mp.weixin.qq.com/s/alglGvnNKIzr7f8SwRZucA)
 * [AOP技术在APP开发中的多场景实践](https://mp.weixin.qq.com/s/yWZew3XefM6Rl0glD-UVXg)
-#### 12.饿了么
+#### 饿了么
 * [你需要知道的那些 Java 字节码知识](https://juejin.im/post/5ca18229f265da307261f7b6)
 * [Java动态编程初探](https://juejin.im/post/5cdcd37151882520226ce13c)
-#### 13.高德
+#### 高德
 * [Android Native 内存泄漏系统化解决方案](https://mp.weixin.qq.com/s/1Vb3qk6H-2CekgPQzCni-g)
-#### 14.即刻
+#### 即刻
 * [ConstraintLayout 介绍与实战 ](https://juejin.im/post/5ce3b68b518825336e0a5190)
-#### 15.天天P图攻城狮
+#### 天天P图攻城狮
 * [例说 Constraint Layout（三）—— 性能测评](https://mp.weixin.qq.com/s/mVOcE7KBZu9ZjlNf8qsJrA)
 * [Android P之Smart Linkify](https://mp.weixin.qq.com/s/kXge9_oBjt8qG766lAIdnw)
-#### 16.爱奇艺
+#### 爱奇艺
 * [干货|安卓APP崩溃捕获方案——xCrash](https://mp.weixin.qq.com/s/bJKvrfO6B8NTGWySpeCYgA)
 * [Android篇 | 爱奇艺App启动优化实践分享](https://mp.weixin.qq.com/s/HfNYsv1-CHTkb-jG__1P0Q)
 * [二维码扫描优化及爱奇艺App的实践](https://mp.weixin.qq.com/s/tB7htYzrmP0wGUFCkCvBUw)
 * [爱奇艺App架构升级之路——64位适配探索与实践](https://mp.weixin.qq.com/s/0Za1VoPFxIHGRy4kPMVA-Q)
 * [爱奇艺App架构升级之路——64位适配探索与实践](https://cloud.tencent.com/developer/news/677788)
 * [如何在Android 8.0以下高效地复用图片？](https://mp.weixin.qq.com/s/wrvCa3YK0L8qX1ECQkrnug)
-#### 17.知乎
+#### 知乎
 * [知乎 Android 客户端三方库敏感代码扫描机制](https://www.jianshu.com/p/248ef6db02c5)
 
-#### 18.天猫精灵技术
+#### 天猫精灵技术
 * [史上最全Android渲染机制讲解（长文源码深度剖析）](https://mp.weixin.qq.com/s/0OOSmrzSkjG3cSOFxWYWuQ)
 * [天猫精灵App首页信息流是怎样实现的](https://mp.weixin.qq.com/s/Goob5z-cRC8S04mBkXn7CA)
 
-#### 19.花椒技术
+#### 花椒技术
 * [花椒Android端自动化测试实践](https://mp.weixin.qq.com/s/aaKTyZfk1fWfckUD_QIsFg)
 
-#### 20.携程技术
+#### 携程技术
 * [携程Android 10适配踩坑指南](https://mp.weixin.qq.com/s/syAzZLYLmTC7AebICb22AQ)
 * [全网最详！暗黑模式在 Trip.com App 的实践](https://mp.weixin.qq.com/s/oU13hMQ2MJIYZoJWC74EMQ)
 
-#### 21.西瓜技术
+#### 西瓜技术
 * [AwCookieManager.nativeGetCookie crash 排查](https://mp.weixin.qq.com/s/YbotiMLHGz5fzLbF4CpPEA)
 * [Android D8编译器“bug”导致Crash的问题排查](https://mp.weixin.qq.com/s/483_hesZalaGRPebzz5tPA)
 
-#### 22.闲鱼技术
+#### 闲鱼技术
 * [曾梦想 if-else 走天涯？看看“责任树模式”优化](https://mp.weixin.qq.com/s/BdSeTrjDCo9zW0Daxffb7Q)
 * [闲鱼如何在2个月内实现Android启动速度翻倍的？](https://mp.weixin.qq.com/s/fYqU-Rd-CBcO1_xpDLeYFA)
 * [关于闲鱼的ANR治理，我有几条心得...](https://mp.weixin.qq.com/s/WMmMTw-Ida2qQaqXb2IGWA)
-#### 23.猫眼技术团队
+#### 猫眼技术团队
 * [一次线程OOM排查看线程使用注意事项](https://juejin.im/post/5f0d55a8e51d4534ac1e5968)
 
-#### 24.快手技术团队
+#### 快手技术团队
 * [Flutter 上的内存泄漏监控](https://juejin.im/post/5ee748df5188251f8649a226)
 * [快手客户端稳定性体系建设](https://juejin.im/post/6860014199973871624)
 * [快手开源的高性能线上内存监控方案KOOM](https://github.com/KwaiAppTeam/KOOM)
 * [卡死 App 的神秘字符串，究竟是何方神圣（上）](https://mp.weixin.qq.com/s/EOD6CuQS9wrGph_p3oRrKQ)
 * [卡死 App 的神秘字符串，究竟是何方神圣（下）](https://mp.weixin.qq.com/s/lT24r_VxgC47o7WSiLSZtg)
 
-#### 25.咕咚移动技术团队
+#### 咕咚移动技术团队
 * [项目创建了几百个线程，你要怎么优化？](https://juejin.im/user/2682464102255335/posts)
 
-#### 26.有赞
+#### 有赞
 * [有赞移动Crash平台建设](https://mp.weixin.qq.com/s/QJr3MyoUj__K6DjNvI1Asg)
 
-#### 27.贝壳产品技术
+#### 贝壳产品技术
 * [贝壳APP Top Experience系列 | Android方法耗时统计工具](https://mp.weixin.qq.com/s/J9xaUKKfdqhpT0zxOogzhw)
 * [一种按照library的维度进行Android包大小分析的方法和实践](https://mp.weixin.qq.com/s/vE4aOxQM136-gIgly1GUJQ)
 
-#### 28.淘系技术
+#### 淘系技术
 * [一个 Crash 引发的血案](https://mp.weixin.qq.com/s/Ij9gqqsVNwAOzAiIiDchbg)
 
-#### 28.vivo互联网技术
+#### vivo互联网技术
 * [dex优化对Arouter查找路径的影响](https://mp.weixin.qq.com/s/9O4XckDXM-xSVSJkbvgO9g)
 * [干货：ANR日志分析全面解析](https://mp.weixin.qq.com/s/TDtjQdOktLcUYec3ldhh5g)
 * [Android客户端网络预连接优化机制探究](https://mp.weixin.qq.com/s/8bEb4kPKLK19jMN20Mcmkg)
@@ -301,7 +301,7 @@
 * [手把手教你实现Android编译期注解](https://mp.weixin.qq.com/s/Jv-bMq1MinQnficiNZVhcQ)
 * [Android模块化开发实践](https://mp.weixin.qq.com/s/EF1tJj21iIRLLKixJC3nkA)
 
-#### 29.自如大前端团队
+#### 自如大前端团队
 * [自如客APP裸眼3D效果的实现](https://juejin.cn/post/6989227733410644005)
 * [Android_增量更新(BSDiff)详解](https://juejin.cn/post/6991279283620544543)
 * [深入理解内存泄漏](https://juejin.cn/post/6992508087336697887)
