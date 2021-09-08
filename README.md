@@ -306,26 +306,15 @@
 * [Android_增量更新(BSDiff)详解](https://juejin.cn/post/6991279283620544543)
 * [深入理解内存泄漏](https://juejin.cn/post/6992508087336697887)
 * [玩转ViewPager2以及在自如中的应用](https://juejin.cn/post/6998063057649811486)
+
 ### 实用工具
-#### 1.Git的奇技和技巧
-https://github.com/git-tips/tips
-
-#### 2.玩游戏一样学习Git
-https://learngitbranching.js.org/
-
-#### 3.开发效率提升：Mac生产力工具链推荐 
-
-https://github.com/Louiszhai/tool
-
-分享一些MAC上高效的软件，工欲善其事必先利其器!
-
-#### 4.Mock你的数据，放个大招 
-https://www.jianshu.com/p/654961493846
-
-#### 5.官方发布的代码搜索工具
-* [https://cs.android.com/](https://cs.android.com/)
-* [https://www.androidos.net.cn/sourcecode](https://www.androidos.net.cn/sourcecode)
-* [http://aospxref.com/](http://aospxref.com/)
+* Git的奇技和技巧 [https://github.com/git-tips/tips](https://github.com/git-tips/tips)
+* 玩游戏一样学习Git [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+* 开发效率提升：Mac生产力工具链推荐 [https://github.com/Louiszhai/tool](https://github.com/Louiszhai/tool)
+* Mock你的数据，放个大招 [https://www.jianshu.com/p/654961493846](https://www.jianshu.com/p/654961493846)
+* Android 代码搜索一 [https://cs.android.com/](https://cs.android.com/)
+* Android 代码搜索二 [https://www.androidos.net.cn/sourcecode](https://www.androidos.net.cn/sourcecode)
+* Android 代码搜索三 [http://aospxref.com/](http://aospxref.com/](http://aospxref.com/](http://aospxref.com/)
 
 ### Gradle相关
 * [Gradle插件-基础篇](https://linxiaotao.github.io/2018/05/16/Gradle%E6%8F%92%E4%BB%B6-%E5%9F%BA%E7%A1%80%E7%AF%87/)
