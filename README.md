@@ -1,4 +1,4 @@
-本`github`收录一些大厂技术分享、实用一直维护的开源库、面试题
+收录一些大厂技术分享、实用一直维护的开源库、面试题
 
 ## 目录
 
@@ -160,6 +160,7 @@
 * [微信Android客户端的ANR监控方案](https://mp.weixin.qq.com/s/fWoXprt2TFL1tTapt7esYg)
 * [快速缓解 32 位 Android 环境下虚拟内存地址空间不足的“黑科技”](https://mp.weixin.qq.com/s/ZbFQQ5AVsHy0YL_kKMAiYA)
 * [Android App 电量统计原理与优化](https://mp.weixin.qq.com/s/9Pi-rHj-G2omqu3dCtuuZA)
+* [线程：“你可能把握不住”—— Android 平台下线程导致的内存问题](https://mp.weixin.qq.com/s/tEhMs2xa05E8aAvynXMpSw)
 * [全民K歌折叠屏适配探索](https://mp.weixin.qq.com/s/2rbQOsNlBqJ24MKyyg0b8A)
 * [MOO音乐的Flutter实战总结之内存治理（上）](https://mp.weixin.qq.com/s/v4Cdheo-ZBHGuAQd12XEMA)
 * [MOO音乐的Flutter实战总结之内存治理（中）](https://mp.weixin.qq.com/s/njtOELCVZQpo9e29H9ykjA)
@@ -325,7 +326,7 @@
 
 
 ### 课程
-#### 1.一些名校课程
+#### 一些名校课程
 
 * 浙江大学课程攻略共享计划 https://github.com/QSCTech/zju-icicles
 
@@ -335,7 +336,7 @@
 
 * 上海交通大学课程资料分享 https://github.com/CoolPhilChen/SJTU-Courses
 
-#### 2.Google 工程师中文演讲 | 深入了解 Flutter 的高性能图形渲染
+#### Google 工程师中文演讲 | 深入了解 Flutter 的高性能图形渲染
 
 https://www.bilibili.com/video/av48772383
 
@@ -345,13 +346,13 @@ Google Flutter 团队的工程师 Yuqian Li 将为你介绍 Flutter 的高性能
 
 B站快要成为一个学习站点啦，不要忽视哟！
 
-#### 3.计算机科学速成课（视频）
+#### 计算机科学速成课（视频）
 
 https://www.yuque.com/computer/crush-course
 
 我们要学很多东西，但预先说明，我们 *不会* 教你怎么编程，我们会从高层次上纵览一系列计算机话题。
 
-#### 4.字节跳动bytex 学习资料
+#### 字节跳动bytex 学习资料
 https://github.com/bytedance/ByteX
 
 
@@ -374,78 +375,58 @@ https://github.com/bytedance/ByteX
 
 
 ### 知识整理
-#### 1. 一份涵盖大部分Java程序员所需要掌握的核心知识
-https://github.com/Snailclimb/JavaGuide
+* 一份涵盖大部分Java程序员所需要掌握的核心知识 [https://github.com/Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)
+* Java成长路线，但学到的不仅仅是Java [https://github.com/javagrowing/JGrowing](https://github.com/javagrowing/JGrowing)
+* ZXBlog主要为算法和数据结构的开源库 [https://github.com/ZXZxin/ZXBlog](https://github.com/ZXZxin/ZXBlog)
+* 可视化算法学习(一) [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
+* 可视化算法学习(二) [https://algorithm-visualizer.org/brute-force/bubble-sort](https://algorithm-visualizer.org/brute-force/bubble-sort) 
+* RxJava2极速入门系列
+    * [RxJava2极速入门——Rxjava理念与基础知识](https://blog.csdn.net/qq_29856589/article/details/88578579)
+    * [RxJava2极速入门——Rxjava操作符详解之创建操作符](https://blog.csdn.net/qq_29856589/article/details/88743270)
+    * [RxJava2极速入门——Rxjava操作符详解之转换操作符](https://blog.csdn.net/qq_29856589/article/details/88821849)
+    * [RxJava2极速入门——Rxjava操作符详解之过滤操作符](https://blog.csdn.net/qq_29856589/article/details/89054897)
+    * [RxJava2极速入门——Rxjava操作符详解之条件布尔操作符](https://blog.csdn.net/qq_29856589/article/details/89288057)
+* 死磕Framework相关系列
+    * [死磕Android_View工作原理你需要知道的一切](https://blog.csdn.net/xfhy_/article/details/90270630)
+    * [死磕Android_Handler机制你需要知道的一切](https://blog.csdn.net/xfhy_/article/details/90347636)
+    * [死磕Android_App 启动过程（含 Activity 启动过程）](https://blog.csdn.net/xfhy_/article/details/90679525)
+    * [死磕Android_AOSP编译过程](https://blog.csdn.net/xfhy_/article/details/91649717)
+    * [死磕Android_Service启动流程分析(一)](https://blog.csdn.net/xfhy_/article/details/91907411)
+    * [死磕Android_Service绑定流程分析(二)](https://blog.csdn.net/xfhy_/article/details/92233730)
+* 腾讯 Shadow
+    * [Shadow为什么要求插件和宿主包名一致](https://juejin.im/post/5d13579cf265da1b957067af)
+    * [Shadow的缺点介绍](https://juejin.im/post/5d13214cf265da1bc41462c1)
+    * [Shadow解决Activity等组件生命周期的方法解析](https://juejin.im/post/5d15d9a06fb9a07ef71087ca)
+    * [Shadow的跨进程设计与插件Service原理](https://juejin.im/post/5d1968545188255543342406)
+    * [Shadow的全动态设计原理解析](https://juejin.im/post/5d1b466f6fb9a07ed524b995)
+    * [Shadow解决插件和宿主有同名View的方法解析](https://juejin.im/post/5d1c2150e51d4556dc29369a)
+    * [Shadow支持WebView使用file:///android_asset/协议加载插件资源的方法](https://juejin.im/post/5d1d6027e51d4510b71da654)
+    * [调试研究Shadow对字节码编辑的正确姿势](https://juejin.im/post/5d1f03dce51d455d877e0d91)
+    * [Shadow对插件包管理的设计](https://juejin.im/post/5d2ec812e51d45778f076de3)
+    * [Shadow对PackageManager的处理方法](https://juejin.im/post/5d37dcf1e51d4510664d17d4)
+* 独立博客 [https://github.com/timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
+* Android 面试宝典、数据结构和算法、音视频 [https://github.com/yangkun19921001/Blog](https://github.com/yangkun19921001/Blog)
+* 却把青梅嗅的反思系列 [https://github.com/qingmei2/blogs](https://github.com/qingmei2/blogs)
+* 系列文章 Android Performance
+    * [Android Systrace 基础知识(1) -- Systrace 简介](https://juejin.cn/post/6844904163407560712)
+    * [Android Systrace 基础知识(2) -- 分析 Systrace 预备知识](https://juejin.cn/post/6844904165336940551)
+    * [Android Systrace 基础知识(3) -- Why 60 fps ？](https://juejin.cn/post/6844904165689262087)
+    * [Android Systrace 基础知识(4) - SystemServer 解读](https://juejin.cn/post/6844904165718622221)
+    * [Android Systrace 基础知识(5) - SurfaceFlinger 解读](https://juejin.cn/post/6844904169573187597)
+    * [Android Systrace 基础知识(6) - Input 解读](https://juejin.cn/post/6844904169535438862)
+    * [Android Systrace 基础知识(7) - Vsync 解读](https://juejin.cn/post/6844904178444140551)
+    * [Android Systrace 基础知识(8) - Vsync-App ：基于 Choreographer 的渲染机制详解](https://juejin.cn/post/6844904179216056327)
+    * [Android Systrace 基础知识(9)-MainThread 和 RenderThread 解读](https://juejin.cn/post/6844904184806899719)
+    * [Android Systrace 基础知识(10) - Binder 和锁竞争解读](https://juejin.cn/post/6844904182818816007)
+    * [Android Systrace 基础知识(11) - Triple Buffer 解读](https://juejin.cn/post/6844904184899338254)
+    * [Android Systrace 基础知识(12) - Kernel 中的 CPU Info 解读](https://juejin.cn/post/6844904185834504199)
+    * [Systrace 流畅性实战 1 ：了解卡顿原理](https://juejin.cn/post/6963656387733749773)
+    * [Systrace 流畅性实战 2 ：案例分析 - MIUI 桌面滑动卡顿分析](https://juejin.cn/post/6963656535067066405)
+    * [Systrace 流畅性实战 3 ：卡顿分析过程中的一些疑问](https://juejin.cn/post/6963654615824875533)
+* LeetCode 刷题攻略 [https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
+* Android ANR问题总结 [https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg](https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg)
+* 最全的Android技术栈 [https://github.com/chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll)
 
-#### 2.Java成长路线，但学到的不仅仅是Java
-https://github.com/javagrowing/JGrowing
-
-#### 3.ZXBlog主要为算法和数据结构的开源库
-https://github.com/ZXZxin/ZXBlog
-
-#### 4.可视化算法学习
-* [https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 算法一直是枯燥的，没想到还有这么个网站，可以可视化的运行和学习各种算法。
-* [https://algorithm-visualizer.org/brute-force/bubble-sort](https://algorithm-visualizer.org/brute-force/bubble-sort) 
-
-#### 5.RxJava2极速入门系列
-* [RxJava2极速入门——Rxjava理念与基础知识](https://blog.csdn.net/qq_29856589/article/details/88578579)
-* [RxJava2极速入门——Rxjava操作符详解之创建操作符](https://blog.csdn.net/qq_29856589/article/details/88743270)
-* [RxJava2极速入门——Rxjava操作符详解之转换操作符](https://blog.csdn.net/qq_29856589/article/details/88821849)
-* [RxJava2极速入门——Rxjava操作符详解之过滤操作符](https://blog.csdn.net/qq_29856589/article/details/89054897)
-* [RxJava2极速入门——Rxjava操作符详解之条件布尔操作符](https://blog.csdn.net/qq_29856589/article/details/89288057)
-
-#### 6.死磕Framework相关系列
-* [死磕Android_View工作原理你需要知道的一切](https://blog.csdn.net/xfhy_/article/details/90270630)
-* [死磕Android_Handler机制你需要知道的一切](https://blog.csdn.net/xfhy_/article/details/90347636)
-* [死磕Android_App 启动过程（含 Activity 启动过程）](https://blog.csdn.net/xfhy_/article/details/90679525)
-* [死磕Android_AOSP编译过程](https://blog.csdn.net/xfhy_/article/details/91649717)
-* [死磕Android_Service启动流程分析(一)](https://blog.csdn.net/xfhy_/article/details/91907411)
-* [死磕Android_Service绑定流程分析(二)](https://blog.csdn.net/xfhy_/article/details/92233730)
-
-#### 7.腾讯 Shadow
-* [Shadow为什么要求插件和宿主包名一致](https://juejin.im/post/5d13579cf265da1b957067af)
-* [Shadow的缺点介绍](https://juejin.im/post/5d13214cf265da1bc41462c1)
-* [Shadow解决Activity等组件生命周期的方法解析](https://juejin.im/post/5d15d9a06fb9a07ef71087ca)
-* [Shadow的跨进程设计与插件Service原理](https://juejin.im/post/5d1968545188255543342406)
-* [Shadow的全动态设计原理解析](https://juejin.im/post/5d1b466f6fb9a07ed524b995)
-* [Shadow解决插件和宿主有同名View的方法解析](https://juejin.im/post/5d1c2150e51d4556dc29369a)
-* [Shadow支持WebView使用file:///android_asset/协议加载插件资源的方法](https://juejin.im/post/5d1d6027e51d4510b71da654)
-* [调试研究Shadow对字节码编辑的正确姿势](https://juejin.im/post/5d1f03dce51d455d877e0d91)
-* [Shadow对插件包管理的设计](https://juejin.im/post/5d2ec812e51d45778f076de3)
-* [Shadow对PackageManager的处理方法](https://juejin.im/post/5d37dcf1e51d4510664d17d4)
-
-#### 8.独立博客
-* [https://github.com/timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)
-
-#### 9.优秀博主文章合集
-* [https://github.com/yangkun19921001/Blog](https://github.com/yangkun19921001/Blog)
-* [却把青梅嗅的反思系列](https://github.com/qingmei2/blogs)
-
-#### 10.系列文章 Android Performance
-* [Android Systrace 基础知识(1) -- Systrace 简介](https://juejin.cn/post/6844904163407560712)
-* [Android Systrace 基础知识(2) -- 分析 Systrace 预备知识](https://juejin.cn/post/6844904165336940551)
-* [Android Systrace 基础知识(3) -- Why 60 fps ？](https://juejin.cn/post/6844904165689262087)
-* [Android Systrace 基础知识(4) - SystemServer 解读](https://juejin.cn/post/6844904165718622221)
-* [Android Systrace 基础知识(5) - SurfaceFlinger 解读](https://juejin.cn/post/6844904169573187597)
-* [Android Systrace 基础知识(6) - Input 解读](https://juejin.cn/post/6844904169535438862)
-* [Android Systrace 基础知识(7) - Vsync 解读](https://juejin.cn/post/6844904178444140551)
-* [Android Systrace 基础知识(8) - Vsync-App ：基于 Choreographer 的渲染机制详解](https://juejin.cn/post/6844904179216056327)
-* [Android Systrace 基础知识(9)-MainThread 和 RenderThread 解读](https://juejin.cn/post/6844904184806899719)
-* [Android Systrace 基础知识(10) - Binder 和锁竞争解读](https://juejin.cn/post/6844904182818816007)
-* [Android Systrace 基础知识(11) - Triple Buffer 解读](https://juejin.cn/post/6844904184899338254)
-* [Android Systrace 基础知识(12) - Kernel 中的 CPU Info 解读](https://juejin.cn/post/6844904185834504199)
-* [Systrace 流畅性实战 1 ：了解卡顿原理](https://juejin.cn/post/6963656387733749773)
-* [Systrace 流畅性实战 2 ：案例分析 - MIUI 桌面滑动卡顿分析](https://juejin.cn/post/6963656535067066405)
-* [Systrace 流畅性实战 3 ：卡顿分析过程中的一些疑问](https://juejin.cn/post/6963654615824875533)
-
-#### 11.LeetCode 刷题攻略
-* [https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-
-#### 12.Android ANR问题总结
-* [https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg](https://mp.weixin.qq.com/s/-yfJoRxHe_J3PNLkGw19Cg)
-
-#### 13.最全的Android技术栈
-* [https://github.com/chiclaim/AndroidAll](https://github.com/chiclaim/AndroidAll)
 
 ## License
 
