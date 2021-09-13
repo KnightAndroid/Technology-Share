@@ -5,18 +5,18 @@
 * [Github开源库](#Github开源库)
 * [大厂分享](#大厂分享)
     * [腾讯](#腾讯)
-    * [字节跳动](#字节跳动)
+    * [字节跳动技术团队](#字节跳动技术团队)
     * [支付宝](#支付宝)
     * [百度](#百度)
-    * [搜狐](#搜狐)
-    * [携程](#携程)
-    * [滴滴](#滴滴)
+    * [搜狐技术产品](#搜狐技术产品)
+    * [携程技术](#携程技术)
+    * [滴滴技术](#滴滴技术)
     * [网易](#网易)
-    * [美团](#美团)
-    * [有赞微商城](#有赞微商城)
-    * [京东](#京东)
+    * [美团技术团队](#美团技术团队)
+    * [有赞coder](#有赞coder)
+    * [京东技术](#京东技术)
     * [饿了么](#饿了么)
-    * [高德](#高德)
+    * [高德技术](#高德技术)
     * [即刻](#即刻)
     * [天天P图攻城狮](#天天P图攻城狮)
     * [爱奇艺](#爱奇艺)   
@@ -147,7 +147,7 @@
 * [腾讯 Shadow](https://github.com/Tencent/Shadow)
 * [腾讯 Bugly：动态下发 so 库在 Android APK 安装包瘦身方面的应用](https://mp.weixin.qq.com/s/X58fK02imnNkvUMFt23OAg)
 * [QQ音乐Android客户端Web页面通用性能优化实践](https://juejin.im/post/5f10446af265da230d324813)
-* [底弄懂浏览器缓存策略](彻底弄懂浏览器缓存策略)
+* [底弄懂浏览器缓存策略](https://mp.weixin.qq.com/s/DcRLpMDn86LkI2kLiFRHCw)
 * [QQ音乐Android编译提速之路](https://mp.weixin.qq.com/s/9vbt73d7nIbTbXVyyRAH3A)
 * [全民k歌适配arm64-v8a方案](https://mp.weixin.qq.com/s/SHFqS3RKKlprijlf6hL09w)
 * [Android的离奇陷阱 — 设置线程优先级导致的微信卡顿惨案](https://mp.weixin.qq.com/s/oLz_F7zhUN6-b-KaI8CMRw)
@@ -191,6 +191,8 @@
 * [西瓜卡顿 & ANR 优化治理及监控体系建设](https://mp.weixin.qq.com/s/2sjG5qkrUNQsI0jEsnh4kQ)
 * [抖音Android无障碍开发知识总结](https://mp.weixin.qq.com/s/2JBMfaV4oa0XLrJ-55sPdg)
 * [一文读懂字节跳动自研移动研发工具链 MBox](https://mp.weixin.qq.com/s/5_IlQPWnCug_f3SDrnImCw)
+* [字节跳动大规模埋点数据治理最佳实践](https://mp.weixin.qq.com/s/TXq333oqraKAqfSXXMrHMQ)
+* [Flutter 多引擎支持 PlatformView 以及线程合并解决方案](https://mp.weixin.qq.com/s/6aW9vbithMWTOJ_PGniQTA)
 #### 支付宝
 * [支付宝客户端架构解析：Android 客户端启动速度优化之「垃圾回收」](https://mp.weixin.qq.com/s/ePjxcyF3N1vLYvD5dPIjUw)
 * [支付宝 App 构建优化解析：通过安装包重排布优化 Android 端启动性能](https://mp.weixin.qq.com/s/79tAFx6zi3JRG-ewoapIVQ)
@@ -202,9 +204,11 @@
 * [百度App网络深度优化系列《三》弱网优化](https://mp.weixin.qq.com/s/BIfya6eVaWZW9ZEVz8RRcg)
 * [一种简单优雅的TextView行间距适配方案](https://mp.weixin.qq.com/s/xQ5I0omWC8-6W4RAYl0hkA)
 * [Gradle 与 Android 构建入门](https://mp.weixin.qq.com/s/HdCrhiY3VSsEjmu0FKLlyg)
-#### 搜狐
+* [深入理解 WKWebView（基础篇）—— 聊聊 cookie 管理那些事](https://mp.weixin.qq.com/s/jZP2DsAa5OV91wdNMw39cA)
+#### 搜狐技术产品
 * [深入理解Flutter多线程](https://mp.weixin.qq.com/s/0dhV1FG0W7L45sCN49yLnQ)
-#### 携程
+* [彻底理解Android架构，重构Jetpack MVVM!](https://mp.weixin.qq.com/s/WtxYVY9MFzluAxCX3MSZNQ)
+#### 携程技术
 * [干货 | 从智行 Android 项目看组件化架构实践](https://mp.weixin.qq.com/s/_v2NMSQmZA9HLVq03AzbWQ)
 #### 滴滴
 * [滴滴开源 DoraemonKit：一款像哆啦A梦般全能的App研发工具](https://github.com/didi/DoraemonKit )
@@ -218,25 +222,30 @@
 * [网易新闻构建优化：如何让你的构建速度“势如闪电”？](https://mp.weixin.qq.com/s/2Y8-NqVPdOqtLGZDMrhGyQ)
 * [Android 开发，如何写出符合规范的异常处理代码](https://mp.weixin.qq.com/s/SOTCVjJ4-V2cNT8lqWFUDA)
 * [AGP 升级之旅](https://mp.weixin.qq.com/s/ccdY77Ys44Hw5E20QbAxdg)
-#### 美团
+#### 美团技术团队
 * [漫谈美团APP对Crash的治理之路](https://www.jianshu.com/p/923a24755456)
 * [Android静态代码扫描效率优化与实践](https://mp.weixin.qq.com/s/cY6rUrrjYRaIV--UzjiUgA)
 * [Probe：Android线上OOM问题定位组件](https://mp.weixin.qq.com/s/tO1yxFs2qNQlQ2bJ8vGzQA)
 * [移动端UI一致性解决方案](https://mp.weixin.qq.com/s/oq7ylltdRIdJuSlL7EIiNA)
 * [设计稿（UI视图）自动生成代码方案的探索](https://mp.weixin.qq.com/s/rwl6rX_cGTtVYkVDy94bQQ)
-#### 有赞微商城
+* [美团App页面视图可测性改造实践](https://mp.weixin.qq.com/s/YcvFSs-97SpMKjlpj9Dzqg)
+#### 有赞coder
 * [有赞微商城-Android组件化方案](https://tech.youzan.com/you-zan-yi-dong-androidzu-jian-hua-fang-an/)
-#### 京东
+* [有赞移动性能监控平台（一）](https://mp.weixin.qq.com/s/0Uf0G8P43XUWl7IPVtAu8g)
+* [有赞移动性能监控平台（二）](https://mp.weixin.qq.com/s/8PwGV9yrclaxiUA-0j65aA)
+#### 京东技术
 * [任意URL跳转漏洞修复与JDK中getHost()方法之间的坑](https://mp.weixin.qq.com/s/Lj7FDZj_ke5djzgJNwipbQ)
 * [LayoutInflater原理分析与复杂布局优化实践](https://mp.weixin.qq.com/s/1Zk4on7WTF7nrBm2EsYgLg)
 * [JAVA原生线程池源码解析及使用建议](https://mp.weixin.qq.com/s/t5BXaLF5bYVuza_9xTNTtA)
 * [京东APP中Flutter探索及优化](https://mp.weixin.qq.com/s/alglGvnNKIzr7f8SwRZucA)
 * [AOP技术在APP开发中的多场景实践](https://mp.weixin.qq.com/s/yWZew3XefM6Rl0glD-UVXg)
+* [Flutter For Web实践](https://mp.weixin.qq.com/s/PuFBEi9t66r3h6t8lZc9JA)
 #### 饿了么
 * [你需要知道的那些 Java 字节码知识](https://juejin.im/post/5ca18229f265da307261f7b6)
 * [Java动态编程初探](https://juejin.im/post/5cdcd37151882520226ce13c)
-#### 高德
+#### 高德技术
 * [Android Native 内存泄漏系统化解决方案](https://mp.weixin.qq.com/s/1Vb3qk6H-2CekgPQzCni-g)
+* [经验总结 | 重构让你的代码更优美和简洁](https://mp.weixin.qq.com/s/5Qxll-uxj4eCAl7pQ2PAwg)
 #### 即刻
 * [ConstraintLayout 介绍与实战 ](https://juejin.im/post/5ce3b68b518825336e0a5190)
 #### 天天P图攻城狮
